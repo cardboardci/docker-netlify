@@ -1,0 +1,8 @@
+{
+  "name": "docker-netlify",
+  "tagline": "Netlify builds, deploys and hosts your netlify services.",
+  "license": {
+    "name": "MIT"
+  },
+  "tags": ["docker", "netlify"]
+}
