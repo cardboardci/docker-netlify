@@ -1,0 +1,10 @@
+---
+name: Docker Netlify CLI
+slug: docker-netlify
+project: cardboardci
+namespace: []
+description: Netlify builds, deploys and hosts your netlify services.
+license:
+  name: MIT
+tags:
+  - docker
