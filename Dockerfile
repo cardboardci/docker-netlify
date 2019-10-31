@@ -1,5 +1,5 @@
 FROM node:13-alpine
-RUN npm i -g netlify-cli@2.6.4
+RUN npm i -g netlify-cli@2.20.1
 
 ##
 ## Image Metadata
