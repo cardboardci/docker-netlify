@@ -1,8 +1,0 @@
----
-name: github
-provider: github.com
-repository: docker-netlify
-url: https://github.com/cardboardci/docker-netlify
-clone:
-  ssh: git@github.com:cardboardci/docker-netlify.git
-  https: https://github.com/cardboardci/docker-netlify.git
