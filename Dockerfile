@@ -9,7 +9,7 @@ RUN apt-get update \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-RUN npm install -g netlify-cli
+RUN npm install -g netlify-cli@2.25.0
 
 USER cardboardci
 
